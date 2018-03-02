@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+  <id>97211d461500d71f7ade7bf0cca0bd59</id>
+  <configTable />
+  <defaultLocation>true</defaultLocation>
+  <visitRight />
+  <visitRightUpdate />
+  <visitRightInsert />
+  <visitRightDisplay />
+  <dynamicVisitRight />
+  <javaLocation>arteryServer.B.java</javaLocation>
+  <jsLocation>repository/eformjs/b.js</jsLocation>
+  <cssLocation>repository/eformcss/b.css</cssLocation>
+  <descript />
+  <needLogin>true</needLogin>
+  <Item version="2">
+    <form sid="form8f4db">
+      <id>form8f4db</id>
+      <Items>
+        <jqFormArea sid="c592591ce1b8128f15fa7cd6496e796a">
+          <id>jqFormAreaba2ad</id>
+          <Items>
+            <jqSelectList sid="acf7e21512fc7bd4cd9e8891d9b4ab2b">
+              <id>jqSelectList0eb3b</id>
+              <Items>
+                <jqFdClassCode sid="bd36e5ffde5d55a72a6cd495099cba9f">
+                  <id>jqFdClassCodea81a9</id>
+                  <codeType>T_Eg_ClassCode</codeType>
+                </jqFdClassCode>
+              </Items>
+            </jqSelectList>
+          </Items>
+        </jqFormArea>
+      </Items>
+    </form>
+  </Item>
+  <dslist>
+    <ds dsName="dataSource" name="rs1" type="logic">ds_rs1</ds>
+  </dslist>
+</form>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+  <id>297ea75ccd7941600a77e96d69f83ef1</id>
+  <configTable />
+  <defaultLocation>true</defaultLocation>
+  <visitRight />
+  <visitRightUpdate />
+  <visitRightInsert />
+  <visitRightDisplay />
+  <dynamicVisitRight />
+  <javaLocation>arteryServer.Ceshi.java</javaLocation>
+  <jsLocation>repository/eformjs/ceshi.js</jsLocation>
+  <cssLocation>repository/eformcss/ceshi.css</cssLocation>
+  <descript />
+  <needLogin>true</needLogin>
+  <Item version="2">
+    <form sid="form484fb">
+      <id>form484fb</id>
+      <Items>
+        <jqInput sid="3e0283783239d15e19605aa587bc2338">
+          <id>jqInput84782</id>
+          <dataName>{rs1.u_name}</dataName>
+          <getSelectData><![CDATA[jqInput84782_getSelectData]]></getSelectData>
+          <onValidClient><![CDATA[jqInput84782_onValidClient]]></onValidClient>
+          <onValidServer><![CDATA[jqInput84782_onValidServer]]></onValidServer>
+        </jqInput>
+        <jqButton sid="062b0cc20e2e08602c888accb5593d87">
+          <id>jqButtonfd90d</id>
+          <onClickClient><![CDATA[jqButtonfd90d_onClickClient]]></onClickClient>
+          <onClickServer><![CDATA[jqButtonfd90d_onClickServer]]></onClickServer>
+        </jqButton>
+      </Items>
+    </form>
+  </Item>
+  <dslist>
+    <ds dsName="dataSource" name="rs1" type="logic">ds_rs1</ds>
+  </dslist>
+</form>
+

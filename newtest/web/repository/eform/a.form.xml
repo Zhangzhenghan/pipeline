@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+  <id>a0bd15ca94daee66e4e6de648527feb4</id>
+  <configTable>
+    <table table="user" />
+  </configTable>
+  <defaultLocation>true</defaultLocation>
+  <visitRight />
+  <visitRightUpdate />
+  <visitRightInsert />
+  <visitRightDisplay />
+  <dynamicVisitRight />
+  <javaLocation>arteryServer.A.java</javaLocation>
+  <jsLocation>repository/eformjs/a.js</jsLocation>
+  <cssLocation>repository/eformcss/a.css</cssLocation>
+  <descript />
+  <needLogin>true</needLogin>
+  <Item version="2">
+    <form sid="form627ab">
+      <id>form627ab</id>
+      <Items>
+        <jqButton sid="6e291c92e1f3645b77ac49b9da47fc1c">
+          <id>jqButton3be14</id>
+          <linkto>{"formId":"297ea75ccd7941600a77e96d69f83ef1","formName":"ceshi","formType":"1","runTimeType":"insert","target":"_window","targetWidth":"","targetHeight":"","targetLeft":"","targetTop":"","targetRight":"","targetBottom":"","modal":"2","resizable":"1","title":"","wincfg":"","fullScreen":"false","forceContextPath":"true"}</linkto>
+          <onClickClient><![CDATA[jqButton3be14_onClickClient]]></onClickClient>
+        </jqButton>
+        <jqInput sid="30a98e2065e31dcaa05ab82b79410093">
+          <id>jqInput68152</id>
+          <caption>IP</caption>
+          <emptyTip>u_name</emptyTip>
+        </jqInput>
+        <jqFormArea sid="40d0e26db4bdaa491622de2bab366b94">
+          <id>jqFormArea224b9</id>
+          <Items>
+            <jqSelectList sid="af7a8f8c1d69b27e82da406d5b7a356c">
+              <id>jqSelectList6fda4</id>
+              <Items>
+                <jqFDCode sid="7aef649e247a70cc14199c0946ed20db">
+                  <id>jqFDCode658e7</id>
+                </jqFDCode>
+                <jqFdClassCode sid="13fbdaf0c79f5610783a31776a0e66ba">
+                  <id>jqFdClassCode36d8e</id>
+                  <codeType>T_Eg_ClassCode</codeType>
+                </jqFdClassCode>
+              </Items>
+            </jqSelectList>
+            <jqInput sid="f56e43fe24b63bffc51501285e9582ee">
+              <id>jqInput23cf1</id>
+            </jqInput>
+          </Items>
+        </jqFormArea>
+      </Items>
+    </form>
+  </Item>
+  <dslist>
+    <ds dsName="dataSource" name="rs1" type="logic" />
+  </dslist>
+</form>
+

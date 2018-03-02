@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+  <group>
+    <cid>e012b889fa6772f42f49a2e2e8fdf960</cid>
+    <dbName>test</dbName>
+    <desc />
+    <showName>test</showName>
+    <tables>
+      <table key="" tableName="user" />
+    </tables>
+  </group>
+</groups>
+

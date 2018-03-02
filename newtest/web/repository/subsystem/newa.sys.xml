@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subsys ver="2">
+  <cid>24c06287273e99af9db1771caeeb739c</cid>
+  <name>newa</name>
+  <firstForm>{"formId":"a0bd15ca94daee66e4e6de648527feb4","formName":"a","formType":"1","runTimeType":"insert"}</firstForm>
+  <rootContext>newa</rootContext>
+  <publish>true</publish>
+  <iconPath />
+</subsys>
+

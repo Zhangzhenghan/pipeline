@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table ver="2">
+  <cid>1120f841fa1c7d6c305050b8ae2f9712</cid>
+  <key />
+  <tableName>user</tableName>
+  <showName>user</showName>
+  <desc />
+  <submitName />
+  <fields>
+    <field cid="c8fe2fc0b2f53edcfe40816e37781015" fieldName="uid" fieldType="auto" dbmsType="number" pk="true" defaultValue="" unique="true">
+      <extend required="true" maxLength="10" label="uid" editor="uuidStr" />
+    </field>
+    <field cid="36a7ec4d6402cef75fcc1a8a2ef72b38" fieldName="u_name" fieldType="text" dbmsType="varchar" pk="false" defaultValue="" unique="false">
+      <extend required="false" maxLength="25" label="u_name" />
+    </field>
+    <field cid="cadb71572a269b571f9ea010f983570f" fieldName="password" fieldType="text" dbmsType="varchar" pk="false" defaultValue="" unique="false">
+      <extend required="false" maxLength="25" label="password" />
+    </field>
+  </fields>
+</table>
+
