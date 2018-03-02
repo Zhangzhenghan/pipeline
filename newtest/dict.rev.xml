@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<artery-dict-obg>
-  <tables>
-    <table cid="26a162e0771af63a3bc39b6f1bb087e1" mapperFolder="mybatis.dao" pojoFolder="mybatis.pojo" daoFolder="mybatis.dao" class="User" />
-    <table cid="3d817dad26fb196a41e7f96492f7a76b" mapperFolder="mybatis.es.dao" pojoFolder="mybatis.es.pojo" daoFolder="mybatis.es.dao" class="Es" />
-  </tables>
-</artery-dict-obg>
-

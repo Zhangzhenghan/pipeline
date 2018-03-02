@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config>
-    <!-- 主题样式 -->
-    <theme series="default" name="default">web/artery/arteryTheme/default/default/xtheme-default.css</theme>
-    <plugin />
-    <css />
-</config>
