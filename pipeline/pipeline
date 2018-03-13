@@ -1,0 +1,6 @@
+node {
+    stage('get clone'){
+        //check CODE
+       git credentialsId: 'git-credentials-id', url: 'https://github.com/Zhangzhenghan/MyRepository-01.git'
+    }
+}
